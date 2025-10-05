@@ -9,12 +9,13 @@
 
 ## 🛠 Навыки и технологии
 
+| Инструменты анализа данных | Языки и библиотеки |
+|----------------------------|------------------|
+| ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel) <br> Power Pivot, Power Query, сводные таблицы, VPR <br> ![SQL](https://img.shields.io/badge/SQL-00758F?style=for-the-badge&logo=postgresql) <br> Подзапросы, JOIN, оконные функции | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python) <br> ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas) <br> ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy) <br> ![Matplotlib](https://img.shields.io/badge/Matplotlib-F58025?style=for-the-badge&logo=matplotlib) <br> ![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge) |
 
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel) Power Pivot, Power Query, сводные таблицы, VPR  
-![SQL](https://img.shields.io/badge/SQL-00758F?style=for-the-badge&logo=postgresql) Подзапросы, JOIN, оконные функции  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy) ![Matplotlib](https://img.shields.io/badge/Matplotlib-F58025?style=for-the-badge&logo=matplotlib) ![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge)  
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql)  
-![PowerBI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=power-bi) ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau) ![DataLens](https://img.shields.io/badge/DataLens-1F77B4?style=for-the-badge)
+| СУБД | Визуализация |
+|------|-------------|
+| ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql) <br> ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql) | ![PowerBI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=power-bi) <br> ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau) <br> ![DataLens](https://img.shields.io/badge/DataLens-1F77B4?style=for-the-badge) |
 
 ---
 
