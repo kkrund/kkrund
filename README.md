@@ -1,16 +1,71 @@
-## Hi there 👋
+# 👋 Привет! Меня зовут Ксения
 
-<!--
-**kkrund/kkrund** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Я аналитик данных с опытом работы 7 месяцев. Люблю превращать данные в инсайты и визуализировать бизнес-показатели.  
+Я нахожусь в **Санкт-Петербурге** и владею **продвинутым английским**.  
 
-Here are some ideas to get you started:
+В этом профиле вы найдете мой проект и примеры работы с данными.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠 Навыки и технологии
+
+**Инструменты анализа данных:**  
+![SQL](https://img.shields.io/badge/SQL-00758F?style=for-the-badge&logo=postgresql)  
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel)  
+- Power Pivot, Power Query, сводные таблицы, основные функции, VPR  
+
+**Языки программирования и библиотеки:**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)  
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)  
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)  
+![Matplotlib](https://img.shields.io/badge/Matplotlib-F58025?style=for-the-badge&logo=matplotlib)  
+![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge)
+
+**СУБД:**  
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)  
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql)
+
+**Визуализация:**  
+![PowerBI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=power-bi)  
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau)  
+![DataLens](https://img.shields.io/badge/DataLens-1F77B4?style=for-the-badge)  
+
+---
+
+## 💼 Опыт работы
+
+**Аналитик данных** (7 месяцев)  
+- Писала SQL-запросы для анализа базы данных продаж (агрегации, подзапросы, CTE, оконные функции)  
+- Разрабатывала динамические дашборды в DataLens и Tableau для контроля основных показателей бизнеса  
+- Применяла Python для анализа данных (Pandas, Numpy, Matplotlib, Seaborn)  
+- Строила модели бизнес-процессов и архитектуры предприятия в BPMN, EPC, ArchiMate  
+
+---
+
+## 🎓 Образование
+
+**СЗИУ РАНХИГС** — Бакалавр, Факультет экономики и финансов, направление «Бизнес-информатика»  
+
+**Дополнительные курсы:**  
+- Анализ данных в Excel (Power Pivot, Power Query, сводные таблицы)  
+- Визуализация данных и дашборды (Tableau, PowerBI)  
+- SQL для аналитиков  
+
+---
+
+## 📂 Проекты
+
+### 1️⃣ Пример очистки данных 
+**Что нужно было сделать:**  
+- а  
+- П 
+
+**Как решала:**  
+П.  
+
+**Ссылка на проект:** [GitHub/Ссылка](#)  
+
+**Выводы:**  
+- Итог №1  
+- Итог №2  
+
