@@ -9,9 +9,11 @@
 
 ## 🛠 Навыки и технологии
 
+## 🛠 Навыки и технологии
+
 | Инструменты анализа данных | Языки и библиотеки |
 |----------------------------|------------------|
-| ![SQL](https://img.shields.io/badge/SQL-00758F?style=for-the-badge&logo=postgresql) <br> ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel) <br> Power Pivot, Power Query, сводные таблицы, VPR | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python) <br> ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas) <br> ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy) <br> ![Matplotlib](https://img.shields.io/badge/Matplotlib-F58025?style=for-the-badge&logo=matplotlib) <br> ![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge) |
+| ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel) <br> Power Pivot, Power Query, сводные таблицы, VPR <br> ![SQL](https://img.shields.io/badge/SQL-00758F?style=for-the-badge&logo=postgresql) <br> Подзапросы, JOIN, оконные функции | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python) <br> ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas) <br> ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy) <br> ![Matplotlib](https://img.shields.io/badge/Matplotlib-F58025?style=for-the-badge&logo=matplotlib) <br> ![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge) |
 
 | СУБД | Визуализация |
 |------|-------------|
