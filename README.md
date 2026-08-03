@@ -140,7 +140,7 @@
   - времени подтверждения, передачи в логистику и доставки заказов.
 - Визуализировала результаты с помощью **Matplotlib** и **Seaborn**.
 
-**Ссылка на проект:** [Ссылка](https://github.com/kkrund/Analytics/Когортный анализ Retention, PMF.ipynb)
+**Ссылка на проект:** [Ссылка]([https://github.com/kkrund/Analytics/Когортный анализ Retention, PMF.ipynb](https://github.com/kkrund/Analytics/blob/564d73c1567c532c4bcc4ca3440cf83147f62afb/%D0%9A%D0%BE%D0%B3%D0%BE%D1%80%D1%82%D0%BD%D1%8B%D0%B9%20%D0%B0%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7%20Retention%2C%20PMF.ipynb))
 
 **Выводы:**
 - Медианный Retention первого месяца составил около **0,51%**.
