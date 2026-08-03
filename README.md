@@ -1,5 +1,9 @@
 # 👋 Привет! Меня зовут Ксения
 
+<p align="left">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1200&color=3776AB&width=650&lines=%D0%90%D0%BD%D0%B0%D0%BB%D0%B8%D1%82%D0%B8%D0%BA+%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D1%85%3BSQL+%E2%80%A2+Python+%E2%80%A2+BI%3B%D0%9F%D1%80%D0%B5%D0%B2%D1%80%D0%B0%D1%89%D0%B0%D1%8E+%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D0%B5+%D0%B2+%D0%B1%D0%B8%D0%B7%D0%BD%D0%B5%D1%81-%D1%80%D0%B5%D1%88%D0%B5%D0%BD%D0%B8%D1%8F" alt="Анимированное описание профиля" />
+</p>
+
 Я **junior аналитик данных** . Люблю превращать данные в инсайты и визуализировать бизнес-показатели.  
 Я нахожусь в **Санкт-Петербурге** и владею продвинутым английским.  
 📧 Email: [ksukrundysheva@mail.ru](mailto:ksukrundysheva@mail.ru)
